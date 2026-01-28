@@ -54,11 +54,11 @@ Raw data are available from GEO. No raw data files are stored in this repository
 ## Repository Structure
 GSE114725_CellChat_TME/
 - ├── scripts/
-- │ ├── 01_Seurat_to_SCE.R # Convert Seurat object to SingleCellExperiment
-- │ ├── 02_SingleR_Annotation.R # Automated cell type annotation using SingleR
-- │ ├── 03_Create_CellChat_Object.R # CellChat object construction
-- │ ├── 04_CellChat_Analysis.R # Communication probability and pathway analysis
-- │ └── 05_Visualization.R # Network and UMAP visualizations
+-  ├── 01_Seurat_to_SCE.R # Convert Seurat object to SingleCellExperiment
+-  ├── 02_SingleR_Annotation.R # Automated cell type annotation using SingleR
+-  ├── 03_Create_CellChat_Object.R # CellChat object construction
+-  ├── 04_CellChat_Analysis.R # Communication probability and pathway analysis
+-  └── 05_Visualization.R # Network and UMAP visualizations
 - ├── figures/ # Output figures
 - └── README.md
 
