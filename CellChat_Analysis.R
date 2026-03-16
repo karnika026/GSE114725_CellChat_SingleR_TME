@@ -1,4 +1,4 @@
-Aim :To infer and visualize cell–cell communication networks and signaling pathways in SingleR-annotated scRNA-seq data using CellChat
+# Aim :To infer and visualize cell–cell communication networks and signaling pathways in SingleR-annotated scRNA-seq data using CellChat
 
 
 library(CellChat)
