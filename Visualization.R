@@ -1,5 +1,5 @@
 
-# Generate CellChat communication network visualizations
+Aim: To Generate CellChat communication network visualizations
 
 # -------------------------------
 # Load libraries
