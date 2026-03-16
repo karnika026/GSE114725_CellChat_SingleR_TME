@@ -1,3 +1,6 @@
+# Aim: To perform automated cell type annotation for the scRNA-seq dataset using the SingleR package with the Human Primary Cell Atlas reference dataset.
+The script evaluates annotation confidence and visualizes results using score heatmaps, delta score distributions, and UMAP projections of the annotated cell types.
+
 
 #Installing Packages
 BiocManager::install("SingleR")
