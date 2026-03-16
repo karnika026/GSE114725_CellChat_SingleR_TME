@@ -1,4 +1,4 @@
-Aim: To construct a CellChat object from the processed Seurat single-cell RNA-seq dataset using SingleR-based cell type annotations.
+# Aim: To construct a CellChat object from the processed Seurat single-cell RNA-seq dataset using SingleR-based cell type annotations.
 
 library(CellChat)
 library(Seurat)
