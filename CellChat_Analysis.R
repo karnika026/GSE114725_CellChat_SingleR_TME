@@ -1,12 +1,6 @@
-# ─────────────────────────────────────────────────────────────
-#         CellChat Cell-Cell Communication Analysis
-# Input:  data/GSE114725/cellchat_seurat.rds
-#         data/GSE114725/seurat_data.rds
-# Output: data/GSE114725/cellchat_seurat_data.rds
-#         plots/cellchat_circle.png
-#         plots/cellchat_pathway_heatmap.png
-#         plots/cellchat_pathway_circle.png
-# ─────────────────────────────────────────────────────────────
+Aim :To infer and visualize cell–cell communication networks and signaling pathways in SingleR-annotated scRNA-seq data using CellChat
+
+
 library(CellChat)
 library(patchwork)
 library(ggplot2)
